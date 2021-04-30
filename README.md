@@ -1,7 +1,7 @@
 # Rust lernen
 Dies ist das Repository für den Kurs "Rust lernen" auf LinkedIn Learning. Der gesamte Kurs ist auf LinkedIn Learning erhältlich.
 
-https://www.linkedin.com/learning/
+https://www.linkedin.com/learning/rust-lernen/
 
 ## Instructions
 Dieses Repository enthält einen Branch für alle in den Videos vorgestellten Beispiele.
