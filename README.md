@@ -18,5 +18,5 @@ Die Verzeichnisse im Git-Repository sind passend zu den Videos im Kurs strukturi
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQGLTv9BvhAujg/learning-public-crop_675_1200/0/1617279855702?e=1646964000&v=beta&t=hdK4oA_-OeU3nRVBIw5Z71q_kx8wG8Ypyg-ww-C0OE4
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2380595/2380595-1617279826742-16x9.jpg
 
